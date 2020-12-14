@@ -82,6 +82,13 @@ const data: Data[] = [
       'https://play.google.com/store/apps/details?id=com.lyra.lyracollect',
     ios: 'https://apps.apple.com/fr/app/lyra-collect/id1469527737',
   },
+  {
+    color: '#673AB7',
+    name: 'Rozy - Stay Connected',
+    image: 'showcase/rozy.png',
+    android: 'https://play.google.com/store/apps/details?id=com.rozy_app.rozy',
+    ios: 'https://apps.apple.com/us/app/rozy/id1511264722',
+  },
 ];
 
 export default class Showcase extends React.Component<{}> {
